@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.ecommerce</groupId>
-    <artifactId>inditex</artifactId>
+    <artifactId>ecommerce</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>inditex</name>
-    <description>Proyecto para ecommerce prueba tecnica inditex</description>
+    <name>ecommerce</name>
+    <description>Proyecto para ecommerce</description>
     <url/>
     <licenses>
         <license/>
